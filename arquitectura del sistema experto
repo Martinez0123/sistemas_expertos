@@ -1,0 +1,64 @@
+Adquisición de Conocimiento
+¿Qué es?
+Es el proceso mediante el cual se recopila y formaliza el conocimiento necesario para que el sistema experto pueda tomar decisiones y resolver problemas. La información puede provenir de diversas fuentes, como:
+
+Expertos humanos, que aportan conocimientos especializados.
+Bases de datos y documentos, que contienen información estructurada.
+Sensores y dispositivos, que recopilan datos en tiempo real.
+Técnicas de inteligencia artificial, como aprendizaje automático o redes neuronales.
+
+¿Para qué sirve?
+Garantiza que el sistema experto tenga una base de conocimiento confiable y actualizada, lo que le permite generar soluciones precisas. Sin una adquisición de conocimiento adecuada, el sistema no podría operar eficazmente.
+
+¿Cómo funciona?
+Se recopila información mediante entrevistas con expertos, cuestionarios o análisis de documentos técnicos.
+Se procesan datos provenientes de sensores o sistemas de información.
+Se utilizan algoritmos de IA para analizar y estructurar la información en un formato comprensible.
+El módulo de adquisición de conocimiento organiza y almacena la información en la base de conocimientos y la base de hechos.
+
+Representación del Conocimiento
+¿Qué es?
+Es la forma en que se almacena y organiza el conocimiento dentro del sistema experto. Se divide en dos partes fundamentales:
+
+Base de conocimiento: Contiene reglas, heurísticas y modelos que permiten el razonamiento lógico del sistema.
+Base de hechos: Almacena datos específicos de cada caso o problema a analizar.
+¿Para qué sirve?
+Facilita el acceso a la información estructurada para que el sistema experto pueda realizar inferencias y llegar a conclusiones. Es la "memoria" del sistema, donde se guardan tanto los principios generales como la información particular de cada consulta.
+
+¿Cómo funciona?
+El módulo de adquisición de conocimiento introduce nueva información en la base de conocimientos y la base de hechos.
+La base de conocimientos almacena reglas y métodos de inferencia en formatos como:
+Reglas "si-entonces"
+Árboles de decisión
+Redes semánticas
+Lógica difusa
+La base de hechos se actualiza dinámicamente con la información relevante para cada consulta.
+
+Tratamiento del Conocimiento
+¿Qué es?
+Es el proceso mediante el cual el sistema experto utiliza la información almacenada en la base de conocimientos y la base de hechos para generar respuestas. Se lleva a cabo mediante dos componentes clave:
+
+Motor de inferencia: Aplica reglas de la base de conocimientos sobre los hechos disponibles para obtener conclusiones o recomendaciones.
+Módulo de explicaciones: Justifica las conclusiones del sistema y explica al usuario cómo se llegó a un determinado resultado.
+¿Para qué sirve?
+Permite que el sistema experto simule el razonamiento humano, tomando decisiones basadas en conocimiento estructurado y ofreciendo explicaciones sobre sus conclusiones.
+
+¿Cómo funciona?
+El motor de inferencia compara los datos de la base de hechos con las reglas de la base de conocimientos.
+Se aplican técnicas de razonamiento como:
+Encadenamiento hacia adelante (parte de los datos y busca una conclusión).
+Encadenamiento hacia atrás (parte de una posible conclusión y verifica si los datos la respaldan).
+Si el usuario solicita una explicación, el módulo de explicaciones reconstruye el proceso de inferencia y justifica la decisión tomada.
+
+
+Utilización del Conocimiento
+¿Qué es?
+Es la fase en la que el usuario interactúa con el sistema experto a través de una interfaz, ingresando datos y obteniendo respuestas, recomendaciones o diagnósticos.
+
+¿Para qué sirve?
+Permite que el usuario aproveche el conocimiento del sistema experto para resolver problemas, tomar decisiones o validar hipótesis en un área específica.
+
+¿Cómo funciona?
+El usuario introduce información o plantea una consulta mediante la interfaz del sistema.
+La interfaz comunica los datos al motor de inferencia, que los analiza y genera una respuesta.
+La respuesta es mostrada al usuario junto con una posible explicación generada por el módulo de explicaciones.
