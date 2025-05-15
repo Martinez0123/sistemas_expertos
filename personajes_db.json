@@ -1,0 +1,379 @@
+[
+  {
+    "nombre": "walter white",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "maestro de química / químico",
+      "vivo": "negativo",
+      "alias": "Heisenberg",
+      "afiliación": "cartel de Juárez",
+      "ubicación": "albuquerque",
+      "estatus": "muerto",
+      "relación": "esposo de Skyler White"
+    }
+  },
+  {
+    "nombre": "Jesse Pinkman",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "narcotraficante",
+      "vivo": "positivo",
+      "alias": "Cap'n Cook",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "socio de Walter White"
+    }
+  },
+  {
+    "nombre": "Skyler White",
+    "atributos": {
+      "género": "femenino",
+      "ocupación": "contadora",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "familiar de Walter White",
+      "ubicación": "Albuquerque",
+      "estatus": "activa",
+      "relación": "esposa de Walter White"
+    }
+  },
+  {
+    "nombre": "Hank Schrader",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "agente DEA",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "DEA",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "cuñado de Walter White"
+    }
+  },
+  {
+    "nombre": "Saul Goodman",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "abogado",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "abogado de Walter White"
+    }
+  },
+  {
+    "nombre": "Gus Fring",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "empresario / narcotraficante",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "rival de Walter White"
+    }
+  },
+  {
+    "nombre": "Mike Ehrmantraut",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "sicario / guardaespaldas",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "socio de Gus Fring"
+    }
+  },
+  {
+    "nombre": "Todd Alquist",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "masculino",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "Familia White",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "empleado de Walter White"
+    }
+  },
+  {
+    "nombre": "Marie Schrader",
+    "atributos": {
+      "género": "femenino",
+      "ocupación": "vendedora",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "familiar de Hank Schrader",
+      "ubicación": "Albuquerque",
+      "estatus": "activa",
+      "relación": "esposa de Hank Schrader"
+    }
+  },
+  {
+    "nombre": "Hector Salamanca",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "mafioso",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "enemigo de Gus Fring"
+    }
+  },
+  {
+    "nombre": "Lydia Rodarte-Quayle",
+    "atributos": {
+      "género": "femenino",
+      "ocupación": "ejecutiva",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "Houston",
+      "estatus": "activa",
+      "relación": "proveedora"
+    }
+  },
+  {
+    "nombre": "Badger",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "narcotraficante",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "amigo de Jesse Pinkman"
+    }
+  },
+  {
+    "nombre": "Skinny Pete",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "narcotraficante",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "amigo de Jesse Pinkman"
+    }
+  },
+  {
+    "nombre": "Gale Boetticher",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "químico",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "socio de Walter White"
+    }
+  },
+  {
+    "nombre": "Jane Margolis",
+    "atributos": {
+      "género": "femenino",
+      "ocupación": "artista",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "muerta",
+      "relación": "novia de Jesse Pinkman"
+    }
+  },
+  {
+    "nombre": "Steven Gomez",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "agente DEA",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "DEA",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "compañero de Hank Schrader"
+    }
+  },
+  {
+    "nombre": "Huell Babineaux",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "guardaespaldas",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "seguridad de Saul Goodman"
+    }
+  },
+  {
+    "nombre": "Andrea Cantillo",
+    "atributos": {
+      "género": "femenino",
+      "ocupación": "estudiante",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "muerta",
+      "relación": "novia de Jesse Pinkman"
+    }
+  },
+  {
+    "nombre": "Combo",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "narcotraficante",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "independiente",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "amigo de Jesse Pinkman"
+    }
+  },
+  {
+    "nombre": "Victor",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "sicario",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "subordinado de Gus Fring"
+    }
+  },
+  {
+    "nombre": "Jack Welker",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "líder de banda neonazi",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "grupo de supremacistas",
+      "ubicación": "Nuevo México",
+      "estatus": "muerto",
+      "relación": "tío de Todd Alquist"
+    }
+  },
+  {
+    "nombre": "Brock Cantillo",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "estudiante",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "ninguna",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "hijo de Andrea Cantillo"
+    }
+  },
+  {
+    "nombre": "Ed Galbraith",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "especialista en desapariciones",
+      "vivo": "positivo",
+      "alias": "El desaparecedor",
+      "afiliación": "independiente",
+      "ubicación": "Desconocida",
+      "estatus": "activo",
+      "relación": "ayudó a Saul y Walter a desaparecer"
+    }
+  },
+  {
+    "nombre": "Tuco Salamanca",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "narcotraficante",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "Albuquerque",
+      "estatus": "muerto",
+      "relación": "sobrino de Hector Salamanca"
+    }
+  },
+  {
+    "nombre": "Leonel Salamanca",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "sicario",
+      "vivo": "negativo",
+      "alias": "uno de “Los Primos”",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "México / Albuquerque",
+      "estatus": "muerto",
+      "relación": "primo de Tuco Salamanca"
+    }
+  },
+  {
+    "nombre": "Marco Salamanca",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "sicario",
+      "vivo": "negativo",
+      "alias": "uno de “Los Primos”",
+      "afiliación": "Cartel de Juárez",
+      "ubicación": "México / Albuquerque",
+      "estatus": "muerto",
+      "relación": "primo de Tuco Salamanca"
+    }
+  },
+  {
+    "nombre": "Jack Welker",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "líder de banda neonazi",
+      "vivo": "negativo",
+      "alias": "no tiene",
+      "afiliación": "grupo de supremacista",
+      "ubicación": "Nuevo México",
+      "estatus": "muerto",
+      "relación": "tío de Todd Alquist"
+    }
+  },
+  {
+    "nombre": "Brock Cantillo",
+    "atributos": {
+      "género": "masculino",
+      "ocupación": "estudiante",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "ninguna",
+      "ubicación": "Albuquerque",
+      "estatus": "activo",
+      "relación": "hijo de Andrea Cantillo"
+    }
+  },
+  {
+    "nombre": "Holly White",
+    "atributos": {
+      "género": "femenino",
+      "ocupación": "bebé",
+      "vivo": "positivo",
+      "alias": "no tiene",
+      "afiliación": "familia White",
+      "ubicación": "Albuquerque",
+      "estatus": "activa",
+      "relación": "hija de Walter y Skyle"
+    }
+  }
+]
